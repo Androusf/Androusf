@@ -1,15 +1,28 @@
-### Hi there 👋
-Hello! I'm Androusf, a software developer with experience in various technologies. I specialize in backend development using Python with Flask and Java. Additionally, I have experience in frontend development using React, JavaScript, and TypeScript.
+# Hello! 👋
 
-In the realm of databases, I'm familiar with PostgreSQL and MySQL. I also have experience working in the cloud using AWS.
+Hi, I'm Androusf, a software developer specializing in fullstack development. I'm passionate about finding innovative solutions to technical challenges using technologies such as Python, Flask, React, and AWS.
 
-Furthermore, I have skills in using version control tools like Git and GitHub, as well as project management using Jira.
+## Key Skills
 
-I'm always keen on learning new technologies and finding innovative solutions to technical challenges. If you have an interesting project in mind or any questions, feel free to reach out to me!
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
-[![](https://img.shields.io/badge/LinkedIn-andresfeliperocha-blue)](https://www.linkedin.com/in/andresfeliperocha/)
-[![](https://img.shields.io/badge/Hotmail-andresfrw%40hotmail.com-orange)](mailto:andresfrw@hotmail.com)
+- Backend Development: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=python,flask,java)](https://skillicons.dev)</div>
+- Frontend Development: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=react,js,ts,css,html)](https://skillicons.dev)</div>
+- Databases: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)</div>
+- Cloud: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)</div>
+- Tools: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)</div>
 
+</div>
+
+
+## Contact
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andresfeliperocha/)
+- [![Hotmail](https://img.shields.io/badge/-Hotmail-orange?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:andresfrw@hotmail.com)
+
+## Stats
+
+[![Androusf's GitHub stats](https://github-readme-stats.vercel.app/api?username=androusf&show_icons=true&theme=radical)](https://github.com/androusf/github-readme-stats)
 
 
 
