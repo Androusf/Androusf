@@ -6,7 +6,7 @@ Hi, I'm Androusf, a software developer specializing in fullstack development. I'
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
-- Backend Development: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=python,flask,java)](https://skillicons.dev)</div>
+- Backend Development: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=python,flask)](https://skillicons.dev)</div>
 - Frontend Development: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=react,js,ts,css,html)](https://skillicons.dev)</div>
 - Databases: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)</div>
 - Cloud: <div style="margin-top: 5px;">[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)</div>
